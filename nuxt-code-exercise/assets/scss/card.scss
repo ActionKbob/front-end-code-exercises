@@ -1,0 +1,11 @@
+.card-image
+{
+	figure
+	{
+		background-repeat : no-repeat;
+		background-size : contain;
+		background-position : center;
+		background-color : $grey-300;
+		border-radius: 0.5rem 0.5rem 0 0;
+	}
+}
